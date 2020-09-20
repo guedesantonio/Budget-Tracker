@@ -4,9 +4,9 @@
 ![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
-  An APP that keeps track of your daily workouts, done with Mongo databasem a Mongoose schema and handles routes with Express.
+  An APP that keeps track of your daily finance, done with Mongo databasem a Mongoose schema and handles routes with Express.
 
-  ![WorkoutTracker](./public/assets/workoutTracker.png)
+  ![WorkoutTracker](./public/budgetTracker.png)
   
   ## Table of contents
   
