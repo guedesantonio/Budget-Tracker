@@ -6,7 +6,7 @@
   ## Description
   An APP that keeps track of your daily finance, done with Mongo databasem a Mongoose schema and handles routes with Express.
 
-  ![WorkoutTracker](./public/budgetTracker.png)
+  ![WorkoutTracker](./public/icons/budgetTracker.png)
   
   ## Table of contents
   
