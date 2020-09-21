@@ -4,7 +4,7 @@
 ![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
-  An APP that keeps track of your daily finance, done with Mongo databasem a Mongoose schema and handles routes with Express.
+  An APP that keeps track of your daily finance, done with Mongo database, a Mongoose schema and handles routes with Express. The app also continues to work even when there is no internet access thanks to its indexedDB offline backup database.
 
   ![WorkoutTracker](./public/icons/budgetTracker.png)
   
@@ -19,29 +19,11 @@
 
   ## Installation
   
-  This app is hosted on heroku. You can access the app by clicking [here](https://guedesantonio-workout-tracker.herokuapp.com/).
+  This app is hosted on heroku. You can access the app by clicking [here](https://guedesantonio-budget-tracker.herokuapp.com/).
   
   ## Usage
 
-  After loading the initial page, the user should be given the option to create a new workout or, if there is previous saved workouts, continue with their last workout.
-
-  At the New Workout page the user should be able to:
-
-  - Add exercises to a previous workout plan.
-
-  - Add new exercises to a new workout plan.
-
-  ![NewWorkout](./public/assets/newWorkout.png)
-
-  At the Fitness Tracker Dashboard
-
-  - View the combined weight of multiple exercises.
-
-  - View the combined time of workouts per week day.
-
-  - View graphic information about every type of exercise and change view.
-
-  ![Dashboard](./public/assets/dashboard.png)
+  The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
   ## License
   This project is licensed under the MIT.
